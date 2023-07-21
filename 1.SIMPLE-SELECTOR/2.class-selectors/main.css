@@ -1,0 +1,16 @@
+/*Class selector*/
+.title {
+  color: red;
+}
+
+.desc {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+.details {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
